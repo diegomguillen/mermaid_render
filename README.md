@@ -28,7 +28,7 @@ Dado que es una aplicación web estática, los requisitos se limitan a:
 
 ## Instalación y Ejecución
 
-La herramienta no requiere un proceso de instalación convencional.
+La herramienta se puede usar desde [https://diegomguillen.github.io/mermaid_render/](https://diegomguillen.github.io/mermaid_render/) o en local del siguiente modo:
 
 1. Descargue el archivo `index.html`.
 2. Abra el archivo directamente con cualquier navegador web compatible.
